@@ -51,7 +51,7 @@
                 <div class="card bg-light mb-3" style="max-with: 40rem;">
                     <div class="card-body">
                         <blockquote class="blockquote mb-0 card-body">
-                            <p style="font-size:18px; font-weight:300; color:#7e6296"><b>เหตุผลที่สร้างเว็บไซต์นี้ ?</b> เพราะอยากเห็นสังคมแห่งการแบ่งปันความรู้ สื่อการสอน แนวข้อสอบครูผู้ช่วยทุกสังกัด และเพื่อเตรียมความพร้อมสำหรับคนที่จะเป็นครู ขอบคุณที่เข้ามาเยี่ยมชมและติดตามเว็บไซต์ "ครูผู้ช่วย.com" ข้อสอบจะทยอยลงให้เรื่อย ๆ นะครับ</p>
+                            <p style="font-size:18px; font-weight:300; color:#7e6296"><b>เหตุผลที่สร้างเว็บไซต์นี้</b> เพราะอยากให้เป็นสังคมแห่งการแบ่งปันความรู้ สื่อการสอน แนวข้อสอบครูผู้ช่วยทุกสังกัด และเพื่อเตรียมความพร้อมสำหรับคนที่จะสอบครูผู้ช่วย ขอบคุณที่เข้ามาเยี่ยมชมและติดตามเว็บไซต์ "ครูผู้ช่วย.com" ข้อสอบจะทยอยลงให้เรื่อย ๆ นะครับ</p>
                             <footer class="blockquote-footer">
                                 <small class="text-muted">
                                     หากมีข้อผิดพลาด คำแนะนำ หรือข้อสงสัยประการใดติดต่อผู้ดูแลเว็บไซต์ได้ที่อีเมล <a href="mailto:kruphoochuay@gmail.com?Subject=สวัสดี" target="_top">kruphoochuay@gmail.com</a>
@@ -79,8 +79,6 @@
         </div>
     </div> -->
 
-
-    </br>
     <script src="./js/jquery.min.js"></script>
     <script src="./js/popover.min.js" ></script>
     <script src="./js/bootstrap.bundle.min.js"></script>
