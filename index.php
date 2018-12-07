@@ -24,7 +24,8 @@
         </script> -->
         <style>
             .header{
-                background: url('./img/a.jpg');
+                background: url('./img/stu.jpg');
+                /* background-color:#669999; */
                 background-size: cover;
                 color: #ffffff;
                 padding-top: 70px;
@@ -32,9 +33,10 @@
                 background-attachment: fixed;
             } 
             .header h1{
-                font-size: 60px;
+                font-size: 50px;
                 font-weight: 300;
-                margin-top: 30px;
+                color:white;
+                margin-top: 20px;
                 text-align: center;
             }
             .header p{
@@ -43,9 +45,11 @@
                 text-align: center;
             }   
             mark{
-                background-color:#7e6296;
+                background-color:#86592d;
                 color:#ffffff;
                 opacity:0.8;
+                font-size:14px;
+                font-weight:300px;
             }
             .menu_picture{
                 width:80%;
@@ -68,7 +72,7 @@
     <div class="container-fluid header mb-5" id="logo">
         <div class="row text-center">
             <div class="col-12">
-                <h1>สอบครูผู้ช่วยออนไลน์</h1>
+                <!-- <h1>สอบครูผู้ช่วยออนไลน์</h1> -->
                 <mark>ครูผู้ช่วย.com | เพื่อคนสอบครูผู้ช่วยทุกสังกัด</mark>
             </div>
         </div>
