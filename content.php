@@ -67,6 +67,10 @@
                     </thead>
                     <tbody class="bodytable">
                         <tr>
+                            <td>ข้อมูลยุทธศาสตร์ชาติ พ.ศ. 2561-2580</td>
+                            <td class="text-center"><a href="./contents/national.php">รายละเอียด</a></td>
+                        </tr> 
+                        <tr>
                             <td>ครูอาสาสมัครโครงการสอนภาษาไทย ณ วัดไทยในต่างประเทศ ประจำปี พ.ศ.๒๕๖๒ (จุฬาลงกรณ์มหาวิทยาลัย)</td>
                             <td class="text-center"><a href="./contents/volunteer_cu.php">รายละเอียด</a></td>
                         </tr> 
