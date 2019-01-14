@@ -67,6 +67,10 @@
                     </thead>
                     <tbody class="bodytable">
                         <tr>
+                            <td>คำขวัญวันครูประจำปี 2562</td>
+                            <td class="text-center"><a href="./contents/slogan.php">รายละเอียด</a></td>
+                        </tr> 
+                        <tr>
                             <td>ข้อมูลยุทธศาสตร์ชาติ พ.ศ. 2561-2580</td>
                             <td class="text-center"><a href="./contents/national.php">รายละเอียด</a></td>
                         </tr> 
