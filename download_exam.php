@@ -61,11 +61,19 @@
                     <thead class="table-primary text-center">
                         <tr>
                             <th class="htable">หัวข้อ</th>
-                            <th class="htable text-center" width="100">ดาวน์โหลด</th>
+                            <th class="htable text-center" width="100">จัดการ</th>
                             <!-- <th class="htable">เปิดดู</th> -->
                         </tr>
                     </thead>
                     <tbody class="bodytable">
+                        <tr>
+                            <td>ไฟล์อ่านสอบครู อปท.</td>
+                            <td class="text-center"><a href="./contents/exam1.php">รายละเอียด</a></td>
+                        </tr> 
+                        <tr>
+                            <td>ไฟล์อ่านสอบครู สพฐ.</td>
+                            <td class="text-center"><a href="./contents/exam2.php">รายละเอียด</a></td>
+                        </tr> 
                         <tr>
                             <td>เก็งข้อสอบครูผู้ช่วย 2558</td>
                             <td class="text-center"><a href="./download/ex1.zip" target="_blank">ดาวน์โหลด</a></td>
