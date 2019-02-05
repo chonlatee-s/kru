@@ -73,7 +73,7 @@
             <a href="https://plus.google.com/share?url=http://ครูผู้ช่วย.com.php" target="_blank" onclick="window.open(this.href, 'facebook-share','width=500,height=300');return false;" class="fa fa-google"></a>
         </div>
     </div>
-    </br>
+    <br>
     <script src="../js/jquery.min.js"></script>
     <script src="../js/bootstrap.bundle.min.js"></script>
     <script src="../js/bootstrap.min.js" ></script>

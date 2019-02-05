@@ -62,7 +62,7 @@
                         <tr>
                             <th class="htable">ลำดับ</th>
                             <th class="htable">ชื่อ-นามสกุล</th>
-                            <th class="htable">สถานที่ทำงาน</th>
+                            <th class="htable">สังกัด</th>
                             <!-- <th class="htable">เปิดดู</th> -->
                         </tr>
                     </thead>
