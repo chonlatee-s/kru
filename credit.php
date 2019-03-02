@@ -69,7 +69,7 @@
                     <tbody class="bodytable">
                         <?php
                             include('config.php');
-                            $mode = $_POST["mode"];
+                            // $mode = $_POST["mode"];
                             try {
                                 $db = new PDO('mysql:host='.$HOST_NAME.';dbname='.$DB_NAME.';'.$CHAR_SET,$USERNAME,$PASSWORD);
                                 $sql = "SELECT * FROM credit ORDER BY qty DESC ,name";
@@ -101,7 +101,7 @@
             </div>
         </div>
     </div>
-    </br>
+    <br>
     <script src="./js/jquery.min.js"></script>
     <script src="./js/popover.min.js" ></script>
     <script src="./js/bootstrap.bundle.min.js"></script>

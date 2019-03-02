@@ -9,7 +9,7 @@
         //         $condition .= "id = '".$_POST['data'][$i]['id']."' AND answer = '".$_POST['data'][$i]['answer']."' ";
         //     }else $condition .= "id = '".$_POST['data'][$i]['id']."' AND answer = '".$_POST['data'][$i]['answer']."' OR ";
         // } กรอกแค่ข้อที่ถูก
-
+        $condition="";
         for($i=0; $i<count($_POST['data']); $i++){
             if($i==(count($_POST['data'])-1)){
                 $condition .= "id = '".$_POST['data'][$i]['id']."' ";

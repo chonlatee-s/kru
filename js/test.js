@@ -119,6 +119,7 @@ $(document).ready(function(){
 		$.post("./checkAnswer.php", { data: data }, function (dataAll, status, xhr){
 			if(status=="success"){
 				if(dataAll != null) {
+					// alert(dataAll);
 					score = $.parseJSON(dataAll);
 
 					for(i=0;i<10;i++){ // order by new HAHAHA
