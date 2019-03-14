@@ -1,63 +1,20 @@
-/* @import url('https://fonts.googleapis.com/css?family=Kanit:200,400,500'); */
-@import url('https://fonts.googleapis.com/css?family=K2D:400,500');
+@import url('https://fonts.googleapis.com/css?family=Sarabun:400,500,800');
 
 body{
-	font-family: 'K2D', sans-serif;
+	font-family: 'Sarabun', sans-serif;
 	background-color: #fcfafa;
 }
-.big_box{background-color:#f2f2f2; padding: 15px;}
-.menu{font-size: 13px; font-weight: 500;}
-.al{font-size: 18px; font-weight: 200;}
-.show{font-size: 14px; color:rgb(214, 75, 121)}
-.choice{
-	margin: 0 auto;
-	max-width: 50%;
-}
-.answer{
-	font-weight: 200;
-	font-size: 16px;
-	margin-bottom: 5px;
-}
-.button {
-    background-color: #82528b;
-	border: none;
-	color: white;
-	display: inline-block;
-	outline: none;
-}
-.button:hover {
-	background-color: #b27fbc;
-	border: none;
-	color: white;
-	display: inline-block;
-	outline: none;
-}
-.menu_botton {
-	font-size: 12px;
-}
-
-/* page agenda */
+.menu{font-size: 14px; font-weight: 500; margin-top: 5px;}
+.menu_btn_test{border-radius: 25px; padding-top: 10px;}
+.big_box{background-color:#f2f2f2; padding:15px;}
+.footer{background-color:#fcfafa; padding-top:25px; padding-bottom: 25px;}
+.menu_botton {font-size: 14px;}
+.hcard{font-size:100px; font-weight:200; color:#857f99}
 .topicTop{
+	padding-bottom: 25px;
 	font-size: 30px;
 	font-weight: 500;
-	color:#82528b;
+	color:#3399cc;
 	margin-bottom:0px;
 	font-weight: 300;
-}
-.secTop{
-	font-size: 24px;
-	font-weight:400;
-	color:#1f79b6;
-	font-weight: 300;
-}
-.ref{color:gray; font-size:14px; font-weight: 200;}
-.htable{color:#1f79b6; font-size:18px; font-weight: 400;}
-.bodytable{color:black; font-size:16px; font-weight: 200;}
-.hcard{font-size:100px; font-weight:200; color:#857f99}
-.list_detail{font-size:14px; font-weight:200; color:#857f99}
-@media screen and (min-width:0px) and (max-width:997px){
-	.choice{
-		margin: 0 auto;
-		max-width: 100%;
-	}
 }

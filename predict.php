@@ -3,9 +3,11 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="shortcut icon" type="image/png" href="img/logo.png">
     <link rel="stylesheet" href="./css/bootstrap.min.css">
     <link rel="stylesheet" href="./css/mystyle.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <title>เว็บฝึกทำข้อสอบครูผู้ช่วยออนไลน์</title>
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121483375-1"></script>
@@ -23,83 +25,62 @@
             });
         </script>
         <style>
-            .header{
-                color: #ffffff;
-                background-attachment: fixed;
-            } 
-            .header h2{
-                font-size: 40px;
-                font-weight: 300;
-                margin-top: 5px;
-                margin-bottom: 10px;
-                color:#7e6296;
-                text-align: center;
-            }
-            .header p{
-                font-size: 16px;
-                font-weight: 300;
-                text-align: center;
-            }
             mark{
                 background-color:#7e6296;
                 color:#ffffff;
                 opacity:0.8;
             }
-            .fa {padding: 10px;font-size: 30px;width: 50px;text-align: center;text-decoration: none;margin: 5px 2px;}
-            .fa:hover {opacity: 0.7;}
-            .fa-facebook {background: #3B5998;color: white;}
-            .fa-twitter {background: #55ACEE;color: white;}
-            .fa-google {background: #dd4b39;color: white;}
-
         </style>
   </head>
   <body>
     <!-- menu -->
     <?php include('menu.php'); ?>
     <!-- banner -->
-
-    <div class="container-fluid header" id="sl">
+    <div class="container-fluid big_box" id="sl">
+        <div class="row text-center">
+            <div class="col-12">   
+                <p class="topicTop">ให้เซียมซีทำนายกัน</p>
+            </div>
+        </div>
         <div class="row text-center">
             <div class="col-12">
-                <h2>ให้เซียมซีทำนายกัน</h2>
-                <p id="phon" class="text-center"><i class="fa fa-mobile" style="font-size:80px; color:#fe6161"></i></p>
+                <i id="phon" class="material-icons al_predict" style="font-size:80px; color:#fe6161">device_unknown</i>
                 <p class="al_predict" style="color:#fe6161">ตั้งจิตอธิษฐาน</p>
                 <span class="al_predict"><mark>เขย่าโทรศัพท์เสี่ยงทายจนกว่าจะรู้ผล</mark></span>
                 <p class="al_predict" style="font-size:12px; color:gray; margin-top:5px;">ใช้บราวเซอร์ Google, Chrome ผู้ที่ใช้คอมพิวเตอร์<a href="#" id="btn_oncom">คลิกที่นี่</a></p>
             </div>
         </div>
-    </div>
 
     <!-- choice -->
-    <br>
-    <div class="container-fluid">
-        <div class="row" id="result_all">
-            <div class="col-sm-12 col-md-12 text-center"> 
-                <div class="card bg-light mb-3 mx-auto" style="max-width: 45rem;">
-                    <div class="card-header"><span id="number">กำลังเสี่ยงทาย</div>
-                    
-                    <div class="card-body text-secondary">
-                        <p style="font-size:18px; color:#82528b" class="card-title"></p>
-                        <i class="fa fa-spinner fa-spin" id="load" style="font-size:35px"></i>
-                        <p id="result" class="card-text text-left" style="color:gray; font-weight: 300; font-size:18px"></p>
-                        <p style="font-size:12px; color:gray;" class="text-right ref"><u>ที่มา</u> วัดหนองบัว จังหวัดอุบลราชธานี</p>
-                        <p class="ref"><a href="predict.php">เล่นอีกครั้ง</a></p>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=http://ครูผู้ช่วย.com" target="_blank" onclick="window.open(this.href, 'facebook-share','width=500,height=300');return false;" class="fa fa-facebook"></a>
-                        <a href="http://twitter.com/share?text=ฝึกทำแบบทดสอบครูผู้ช่วยออนไลน์&url=http://ครูผู้ช่วย.com" target="_blank" onclick="window.open(this.href, 'facebook-share','width=500,height=300');return false;" class="fa fa-twitter"></a>
-                        <a href="https://plus.google.com/share?url=http://ครูผู้ช่วย.com" target="_blank" onclick="window.open(this.href, 'facebook-share','width=500,height=300');return false;" class="fa fa-google"></a>
+ 
+        <div class="container-fluid">
+            <div class="row" id="result_all">
+                <div class="col-sm-12 col-md-12 text-center"> 
+                    <div class="card bg-light mb-3 mx-auto" style="max-width: 45rem;">
+                        <div class="card-header"><b><span id="number" style="font-size:18px;">กำลังเสี่ยงทาย</span></b></div>
+                        <div class="card-body text-secondary">
+                            <p style="font-size:18px; color:#82528b" class="card-title"></p>
+                            <i class="fa fa-spinner fa-spin" id="load" style="font-size:35px"></i>
+                            <p id="result" class="card-text text-left" style="color:gray; font-weight: 300; font-size:18px"></p>
+                            <p style="font-size:12px; color:gray;" class="text-right ref"><u>ที่มา</u> วัดหนองบัว จังหวัดอุบลราชธานี</p>
+                        </div>
                     </div>
-                </div>
-            </div>         
+                </div>         
+            </div>
         </div>
     </div>
-    <br>
+    <div id="footer" class="container footer text-center">
+        <?php include('share.php'); ?>
+        <p style="font-size: 12px; color:gray">สงวนลิขสิทธิ์ © 2562 ครูผู้ช่วย.com</p>
+    </div>
+
     <script src="./js/jquery.min.js"></script>
-    <script src="./js/popover.min.js" ></script>
     <script src="./js/bootstrap.bundle.min.js"></script>
     <script src="./js/bootstrap.min.js" ></script>
     <script src="./js/myjquery.js"></script>
     <script src="./js/shake.js/shake.js"></script>
     <script>
+
         $(document).ready(function(){
             $('#result_all').hide();
             var shakeEvent = new Shake({threshold: 15});
@@ -128,7 +109,6 @@
                     if(status=="success"){
                         if(dataAll != null) {
                             resultAll = $.parseJSON(dataAll);
-                            alert('ดูผลเสี่ยงทาย');
                             $('.ref').show();
                             $('#load').hide();
                             $('#phon').hide();
@@ -145,6 +125,7 @@
             function oncomputer(){
                 $('#result_all').show();
                 $('.ref').hide();
+                $('.al_predict').hide();
                 setTimeout(function () {
                     sendData();
                 }, 3000);

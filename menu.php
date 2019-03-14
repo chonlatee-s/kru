@@ -6,9 +6,9 @@
     <title>เว็บฝึกทำข้อสอบครูผู้ช่วยออนไลน์</title>
   </head>
   <body>
-    <div class="container menu">
+  <div class="container menu">
         <nav class="navbar navbar-expand-lg navbar-light">
-            <a class="navbar-brand" href="index.php"><img src="img/logo2.png" style="width:20%;"> ครูผู้ช่วย.com</a>
+            <a class="navbar-brand" href="index.php"><img src="img/logo2.png" style="width:20%;"> <b>ครูผู้ช่วย.com</b></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -21,10 +21,10 @@
                         <a class="nav-link" href="how.php">ครูผู้ช่วยสอบอะไรบ้าง</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="download_exam.php">ดาวน์โหลดแนวข้อสอบ</a>
+                        <a class="nav-link" href="content.php">เนื้อหาที่เกี่ยวข้อง</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="content.php">เนื้อหาที่เกี่ยวข้อง</a>
+                        <a class="nav-link" href="std_teacher.php">มาตรฐานวิชาชีพครู</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="credit.php">ผู้ร่วมแบ่งปันความรู้</a>
@@ -35,6 +35,6 @@
                 </ul>
             </div>
         </nav>
-        </div>
+    </div>
   </body>
 </html>

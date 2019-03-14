@@ -210,7 +210,7 @@ $(document).ready(function(){
 		for(i=0;i<data.length;i++){
 			show_ans_all += '<p class="topic_result">ข้อที่ '+(i+1)+" "+data[i].question+'</p>';
 			show_ans_all += '<p class="result"><b><u>ตอบ</u></b> '+data[i].user_select+'</p>';
-			if(data[i].answer_user==0){show_ans_all += '<i><p class="result" style="color:#FF6347"><b><u>เฉลย</u></b> '+data[i].ch+'</p></i>'};
+			if(data[i].answer_user==0){show_ans_all += '<p class="result" style="color:#FF6347"><b><u>เฉลย</u></b> '+data[i].ch+'</p>'};
 			
 			if(data[i].answer_user==0){
 				if(data[i].ref!=""){show_ans_all += '<p class="float-right ref_text">&#10007;&nbsp;<a href="'+data[i].ref+'" target="_blank">อ้างอิง</a></p><hr>';}
