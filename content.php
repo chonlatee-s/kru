@@ -67,6 +67,14 @@
                     </thead>
                     <tbody class="bodytable">
                         <tr>
+                            <td>หลักสูตรปวช. พ.ศ.2562</td>
+                            <td class="text-center"><a href="./contents/vec_cur.php">รายละเอียด</a></td>
+                        </tr> 
+                        <tr>
+                            <td>สำนักงานคณะกรรมการการอาชีวศึกษา  เปิดรับสมัครบุคคลเพื่อเลือกสรรและจัดจ้างเป็นพนักงานราชการทั่วไป</td>
+                            <td class="text-center"><a href="./contents/vec_job.php">รายละเอียด</a></td>
+                        </tr> 
+                        <tr>
                             <td>เปิดรับสมัครครูอาสาสมัครโครงการสอนภาษาไทยและวัฒนธรรมไทยในต่างประเทศ ประจำปี พ.ศ.๒๕๖๒ รอบที่ ๒ (จุฬาลงกรณ์มหาวิทยาลัย)</td>
                             <td class="text-center"><a href="./contents/volunteer_cu2.php">รายละเอียด</a></td>
                         </tr> 
