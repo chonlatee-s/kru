@@ -53,6 +53,14 @@
                         </thead>
                         <tbody class="bodytable">
                             <tr>
+                                <td>ข้อบังคับคุรุสภาว่าด้วยมาตรฐานวิชาชีพ (ฉบับที่ ๔) พ.ศ. ๒๕๖๒</td>
+                                <td class="text-center"><a href="./contents/tc_std.php">รายละเอียด</a></td>
+                            </tr> 
+                            <tr>
+                                <td>คุรุสภา เชิญชวนสมัครใช้ระบบ KSP e–Service เพื่อรับบริการของคุรุสภา</td>
+                                <td class="text-center"><a href="./contents/ksp.php">รายละเอียด</a></td>
+                            </tr> 
+                            <tr>
                                 <td>หลักสูตรปวช. พ.ศ.2562</td>
                                 <td class="text-center"><a href="./contents/vec_cur.php">รายละเอียด</a></td>
                             </tr> 
