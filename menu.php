@@ -21,7 +21,7 @@
                         <a class="nav-link" href="how.php">ครูผู้ช่วยสอบอะไรบ้าง</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="content.php">เนื้อหาที่เกี่ยวข้อง</a>
+                        <a class="nav-link" href="content_news.php">เนื้อหาที่เกี่ยวข้อง</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="std_teacher.php">มาตรฐานวิชาชีพครู</a>
