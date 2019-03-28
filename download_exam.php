@@ -6,6 +6,7 @@
     <link rel="shortcut icon" type="image/png" href="img/logo.png">
     <link rel="stylesheet" href="./css/bootstrap.min.css">
     <link rel="stylesheet" href="./css/mystyle.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/dt-1.10.18/datatables.min.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>เว็บฝึกทำข้อสอบครูผู้ช่วยออนไลน์</title>
         <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -72,51 +73,6 @@
                                 echo "CANNOT CONNECT DATABASE : ".$e->getMessage();
                             }
                         ?>
-
-                            <!-- <tr>
-                                <td>แจกฟรี!!! ข้อสอบครูผู้ช่วย ภาค ก.ภาษาไทย  (ข้อมูลจากเพจ อยากบรรจุต้องจำ โดยผอ.สุรเนตร)</td>
-                                <td class="text-center"><a href="https://www.facebook.com/remember444/photos/pcb.578982065941079/578981925941093/?type=3&theater" target="_blank">รายละเอียด</a></td>
-                            </tr> 
-                            <tr>
-                                <td>กฎหมาย ครู กทม.(2) (ข้อมูลจากเพจ อยากบรรจุต้องจำ โดยผอ.สุรเนตร)</td>
-                                <td class="text-center"><a href="https://www.facebook.com/remember444/photos/pcb.584202008752418/584201305419155/?type=3&theater" target="_blank">รายละเอียด</a></td>
-                            </tr> 
-                            <tr>
-                                <td>กฎหมาย ครู กทม. (ข้อมูลจากเพจ อยากบรรจุต้องจำ โดยผอ.สุรเนตร)</td>
-                                <td class="text-center"><a href="https://www.facebook.com/remember444/photos/pcb.584119628760656/584119458760673/?type=3&theater" target="_blank">รายละเอียด</a></td>
-                            </tr> 
-                            <tr>
-                                <td>สรุปมาตรฐานวิชาชีพ (ข้อมูลจากเพจ อยากบรรจุต้องจำ โดยผอ.สุรเนตร)</td>
-                                <td class="text-center"><a href="https://www.facebook.com/remember444/posts/585133361992616?__xts__[0]=68.ARAgYIxTMvIuy8zIDW-zRei7lazARILa2CtugMAksMp-NNcwSJ7d2BBOKI1uqQsmY-vqdycn2ipkyDW7UDp6zi5GbdHxq3HODt6F0pCRqT0SxnvOP2fIViuEGeNx1MleMSVwp-KMR-F6uIXkROmoVgiR4tU5HIn4MkNpar-UIryrBn4XdH2rqy4u-rankzeI4dq3ErTa3LdT8h8ogwXwX0nGOO3meBMcw5uVfUB-S6kR9JMNutFGPKYBpCvOvqzIPxheOFEq0czWz7kP8M3sLSK9sH3bOtsGRE6NIm89le0i_KP63jp9DZfRPvR50aTFrXnSgEmzkQWqF3zSvG2_VaA_V4mrEXTzUtfP59duvJxOvAYD-ukIWA&__tn__=C-R" target="_blank">รายละเอียด</a></td>
-                            </tr> 
-                            <tr>
-                                <td>ไฟล์อ่านสอบครู อปท.</td>
-                                <td class="text-center"><a href="./contents/exam1.php">รายละเอียด</a></td>
-                            </tr> 
-                            <tr>
-                                <td>ไฟล์อ่านสอบครู สพฐ.</td>
-                                <td class="text-center"><a href="./contents/exam2.php">รายละเอียด</a></td>
-                            </tr> 
-                            <tr>
-                                <td>เก็งข้อสอบครูผู้ช่วย 2558</td>
-                                <td class="text-center"><a href="./download/ex1.zip" target="_blank">ดาวน์โหลด</a></td>
-                            </tr> 
-                            <tr>
-                                <td>แนวข้อสอบอาชีวศึกษา (ความรอบรู้) 2559 </td>
-                                <td class="text-center"><a href="./download/ex2.zip" target="_blank">ดาวน์โหลด</a></td>
-                            </tr> 
-                            <tr>
-                                <td>แนวข้อสอบครูผ้ช่วย (สำหรับท่านที่ไม่ค่อยมีเวลาอ่านเยอะ)</td>
-                                <td class="text-center"><a href="./download/ex3.zip" target="_blank">ดาวน์โหลด</a></td>
-                            </tr> 
-                            <tr>
-                                <td>สรุปย่อแนวข้อสอบอาชีวศึกษา</td>
-                                <td class="text-center"><a href="./download/ex4.zip" target="_blank">ดาวน์โหลด</a></td>
-                            </tr> 
-                            <tr>
-                                <td>แนวข้อสอบวิชาเอกคอมพิวเตอร์</td>
-                                <td class="text-center"><a href="./download/ex_com.zip" target="_blank">ดาวน์โหลด</a></td>
-                            </tr>  -->
                         </tbody>
                     </table>
                 </div>
@@ -131,5 +87,7 @@
     <script src="./js/jquery.min.js"></script>
     <script src="./js/bootstrap.bundle.min.js"></script>
     <script src="./js/bootstrap.min.js" ></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/v/bs4/dt-1.10.18/datatables.min.js"></script>
+    <script src="./js/table.js"></script>
   </body>
 </html>

@@ -6,6 +6,7 @@
     <link rel="shortcut icon" type="image/png" href="img/logo.png">
     <link rel="stylesheet" href="./css/bootstrap.min.css">
     <link rel="stylesheet" href="./css/mystyle.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/dt-1.10.18/datatables.min.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>สอบครูผู้ช่วยออนไลน์</title>
         <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -85,5 +86,7 @@
     <script src="./js/jquery.min.js"></script>
     <script src="./js/bootstrap.bundle.min.js"></script>
     <script src="./js/bootstrap.min.js" ></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/v/bs4/dt-1.10.18/datatables.min.js"></script>
+    <script src="./js/table.js"></script>
   </body>
 </html>
