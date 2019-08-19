@@ -46,8 +46,8 @@
             <div class="col-12">
                 <i id="phon" class="material-icons al_predict" style="font-size:80px; color:#fe6161">device_unknown</i>
                 <p class="al_predict" style="color:#fe6161">ตั้งจิตอธิษฐาน</p>
-                <span class="al_predict"><mark>เขย่าโทรศัพท์เสี่ยงทายจนกว่าจะรู้ผล</mark></span>
-                <p class="al_predict" style="font-size:12px; color:gray; margin-top:5px;">ใช้บราวเซอร์ Google, Chrome ผู้ที่ใช้คอมพิวเตอร์<a href="#" id="btn_oncom">คลิกที่นี่</a></p>
+                <span class="al_predict"><button type="button" class="btn btn-info" id="btn_oncom">เริ่มเสี่ยงทาย</button></span>
+                <p class="al_predict" style="font-size:12px; color:gray; margin-top:5px;">กรุณาใช้บราวเซอร์ Google, Chrome</p>
             </div>
         </div>
 
@@ -120,7 +120,7 @@
                     }else alert('Something Wrong!!!');
                 });
             }
-            if(!("ondevicemotion" in window)){alert("Not Supported");}
+            // if(!("ondevicemotion" in window)){alert("Not Supported");}
 
             function oncomputer(){
                 $('#result_all').show();

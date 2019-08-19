@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="./css/bootstrap.min.css">
     <link rel="stylesheet" href="./css/mystyle.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <title>สอบครูผู้ช่วยออนไลน์</title>
+    <title>ไฟล์เอกสารต่าง ๆ</title>
 
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121483375-1"></script>
@@ -53,7 +53,7 @@
                                 <p class="card-text" style="font-weight:200">แบบที่ 1 แผ่นพับที่นิยมใช้กันทั่วไปในการสอบสัมภาษณ์</p>
                             </div>
                             <div class="card-footer">
-                                <small class="text-muted"><a href="./download/design1.zip">ดาวน์โหลด</a></small>
+                                <small class="text-muted"><a href="https://drive.google.com/open?id=1r7y4Pr7pM5zTjtY_e6LGEhzLVCFwXcAj" target="_blank">ดาวน์โหลด</a></small>
                             </div>
                         </div>
                         <div class="card">
@@ -64,7 +64,7 @@
                                 <p class="card-text" style="font-weight:200">แบบที่ 2 เอกสารที่ทำออกมาในลักษณะเป็นรูปเล่ม</p>
                             </div>
                             <div class="card-footer">
-                                <small class="text-muted"><a href="./download/design2.zip">ดาวน์โหลด</a></small>
+                                <small class="text-muted"><a href="https://drive.google.com/open?id=1r7y4Pr7pM5zTjtY_e6LGEhzLVCFwXcAj" target="_blank">ดาวน์โหลด</a></small>
                             </div>
                         </div>
                         <div class="card">
@@ -75,13 +75,34 @@
                                 <p class="card-text" style="font-weight:200">แบบที่ 3 เอกสารในรูปแบบ CV ใช้ในการสัมภาษณ์งานอื่น ๆ ได้</p>
                             </div>
                             <div class="card-footer">
-                                <small class="text-muted"><a href="./download/design3.zip">ดาวน์โหลด</a></small>
+                                <small class="text-muted"><a href="https://drive.google.com/open?id=1r7y4Pr7pM5zTjtY_e6LGEhzLVCFwXcAj" target="_blank">ดาวน์โหลด</a></small>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+
+        <div>
+            <div class="row mb-3">
+                <div class="col-md-10 col-sm-12 mx-auto">   
+                    <div class="card-group">
+                        <div class="card">
+                            <div class="card-body" style="padding-top:0">
+                                <p class="text-center hcard"></p>
+                                <img src="./img/SAR1.jpg" alt="ครูผู้ช่วย.com" class="img-fluid"/>
+                                <p></p>
+                                <p class="card-text" style="font-weight:200">ปกรายงานการประเมินตนเอง (SAR)</p>
+                            </div>
+                            <div class="card-footer">
+                                <small class="text-muted"><a href="https://drive.google.com/open?id=15feA4H1p8sF-Y138Ge-vmMdetMRwqm--" target="_blank">ดาวน์โหลด</a></small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
     </div>
     <div id="footer" class="container footer text-center">
         <?php include('share.php'); ?>
