@@ -33,7 +33,7 @@
         <div class="container">
             <div class="row text-center">
                 <div class="col-12">   
-                    <p class="topicTop">รายชื่อผู้ร่วมแบ่งปันความรู้</p>
+                    <p class="topicTop">ผู้ร่วมแบ่งปันความรู้</p>
                 </div>
             </div>
         </div>

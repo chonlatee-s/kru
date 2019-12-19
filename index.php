@@ -18,7 +18,9 @@
     <div class="container-fluid text-center big_box">
         <div class="row">
             <div class="col-sm-12 col-md-4 align-self-center">
-                <img src="img/banner.png" class="img-fluid" alt="สอบครูผู้ช่วยออนไลน์" style="width:70%;">
+                <a href="https://web.facebook.com/ครูผู้ช่วยcom-110744400336909">
+                    <img src="img/banner.png" class="img-fluid" alt="สอบครูผู้ช่วยออนไลน์" style="width:70%;">
+                </a>
             </div>
             <div class="col-sm-12 col-md-8">
                 <h2 style="padding-top:10px;">"ฉันจะเป็นครูให้ได้"</h2>

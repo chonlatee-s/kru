@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="./css/mystyle.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <title>เว็บฝึกทำข้อสอบครูผู้ช่วยออนไลน์</title>
+    <title>สอบครูผู้ช่วยออนไลน์</title>
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121483375-1"></script>
         <script>
@@ -47,7 +47,6 @@
                 <i id="phon" class="material-icons al_predict" style="font-size:80px; color:#fe6161">device_unknown</i>
                 <p class="al_predict" style="color:#fe6161">ตั้งจิตอธิษฐาน</p>
                 <span class="al_predict"><button type="button" class="btn btn-info" id="btn_oncom">เริ่มเสี่ยงทาย</button></span>
-                <p class="al_predict" style="font-size:12px; color:gray; margin-top:5px;">กรุณาใช้บราวเซอร์ Google, Chrome</p>
             </div>
         </div>
 

@@ -68,7 +68,7 @@
             background: white;
         }
     </style>
-    <title>เว็บฝึกทำข้อสอบครูผู้ช่วยออนไลน์</title>
+    <title>สอบครูผู้ช่วยออนไลน์</title>
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121483375-1"></script>
         <script>

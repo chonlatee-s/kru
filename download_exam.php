@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="./css/mystyle.css">
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/dt-1.10.18/datatables.min.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <title>เว็บฝึกทำข้อสอบครูผู้ช่วยออนไลน์</title>
+    <title>สอบครูผู้ช่วยออนไลน์</title>
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121483375-1"></script>
         <script>
