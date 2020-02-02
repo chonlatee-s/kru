@@ -96,10 +96,10 @@
                                                 <li style="font-size:14px;">กฎหมายเกี่ยวกับระเบียบข้าราชการครูและบุคลากรทางการศึกษา</li>
                                                 <li style="font-size:14px;">กฎหมายเกี่ยวกับการคุ้มครองเด็ก</li>
                                                 <li style="font-size:14px;">กฎหมายเกี่ยวกับการจัดการศึกษาสำหรับคนพิการ</li>
-                                                <li style="font-size:14px;">กฎหมาย กฎ ระเบียบ หลักเกณฑ์และวิธีการที่เกี่ยวข้องโดยตรงกับส่วนราชการ (ถ้ามีจะระบุไว้ในประกาศรับสมัครสอบแข่งขัน)</li>
+                                                <!-- <li style="font-size:14px;">กฎหมาย กฎ ระเบียบ หลักเกณฑ์และวิธีการที่เกี่ยวข้องโดยตรงกับส่วนราชการ (ถ้ามีจะระบุไว้ในประกาศรับสมัครสอบแข่งขัน)</li> -->
                                             </ul>
                                         </li>
-                                        <li style="font-size:14px;">ความรู้ความสามารถด้านภาษาอังกฤษที่เกี่ยวข้องกับการปฏิบัติงาน โดยให้เป็นไปตามที่ส่วนราชการกำหนด</li>
+                                        <li style="font-size:14px;">ความรู้ความสามารถด้านภาษาอังกฤษที่เกี่ยวข้องกับการปฏิบัติงาน</li>
                                     </ul>
                                 </li>
                                 <li style="font-size:16px;">ความสามารถทั่วไป 50 คะแนน ให้ทดสอบโดยวิธีการสอบข้อเขียนแบบปรนัย ในเรื่องดังต่อไปนี้
@@ -121,7 +121,7 @@
 
                             <footer class="blockquote-footer">
                                 <small class="text-muted">
-                                    <a href="http://www.otepc.go.th/images/0_%E0%B8%A0%E0%B8%95./%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/07062561-%E0%B8%AB%E0%B8%A5%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%93%E0%B8%91%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A7%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B9%81%E0%B8%82%E0%B8%87%E0%B8%82%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B8%AD%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%88%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%81%E0%B8%95%E0%B8%87%E0%B8%95%E0%B8%87%E0%B8%9A%E0%B8%84%E0%B8%A5%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%9B%E0%B8%99%E0%B8%82%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%B3%E0%B9%81%E0%B8%AB%E0%B8%99%E0%B8%87%E0%B8%9C%E0%B8%8A%E0%B8%A7%E0%B8%A2.pdf" target="_blank">ข้อมูลอ้างอิง</a>
+                                    <a href="https://drive.google.com/file/d/1FcH4MIZNfpPcCAFeBaormMV3uzRybsAD/view" target="_blank">ข้อมูลอ้างอิง</a>
                                 </small>
                             </footer>
                         </blockquote>
@@ -151,7 +151,7 @@
                             </ul>
                             <footer class="blockquote-footer">
                                 <small class="text-muted">
-                                    <a href="http://www.otepc.go.th/images/0_%E0%B8%A0%E0%B8%95./%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/07062561-%E0%B8%AB%E0%B8%A5%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%93%E0%B8%91%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A7%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B9%81%E0%B8%82%E0%B8%87%E0%B8%82%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B8%AD%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%88%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%81%E0%B8%95%E0%B8%87%E0%B8%95%E0%B8%87%E0%B8%9A%E0%B8%84%E0%B8%A5%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%9B%E0%B8%99%E0%B8%82%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%B3%E0%B9%81%E0%B8%AB%E0%B8%99%E0%B8%87%E0%B8%9C%E0%B8%8A%E0%B8%A7%E0%B8%A2.pdf" target="_blank">ข้อมูลอ้างอิง</a>
+                                    <a href="https://drive.google.com/file/d/1FcH4MIZNfpPcCAFeBaormMV3uzRybsAD/view" target="_blank">ข้อมูลอ้างอิง</a>
                                 </small>
                             </footer>
                         </blockquote>
@@ -176,7 +176,7 @@
                             </ul>
                             <footer class="blockquote-footer">
                                 <small class="text-muted">
-                                    <a href="http://www.otepc.go.th/images/0_%E0%B8%A0%E0%B8%95./%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/07062561-%E0%B8%AB%E0%B8%A5%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%93%E0%B8%91%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A7%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B9%81%E0%B8%82%E0%B8%87%E0%B8%82%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B8%AD%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%88%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%81%E0%B8%95%E0%B8%87%E0%B8%95%E0%B8%87%E0%B8%9A%E0%B8%84%E0%B8%A5%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%9B%E0%B8%99%E0%B8%82%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%B3%E0%B9%81%E0%B8%AB%E0%B8%99%E0%B8%87%E0%B8%9C%E0%B8%8A%E0%B8%A7%E0%B8%A2.pdf" target="_blank">ข้อมูลอ้างอิง</a>
+                                    <a href="https://drive.google.com/file/d/1FcH4MIZNfpPcCAFeBaormMV3uzRybsAD/view" target="_blank">ข้อมูลอ้างอิง</a>
                                 </small>
                             </footer>
                         </blockquote>
