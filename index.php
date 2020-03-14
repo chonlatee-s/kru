@@ -18,8 +18,11 @@
     <div class="container-fluid text-center big_box">
         <div class="row">
             <div class="col-sm-12 col-md-4 align-self-center">
+                <a href="https://play.google.com/store/apps/details?id=com.kruApp.kruphoochuay">
+                    <img src="img/b1.png" class="img-fluid" alt="สอบครูผู้ช่วยออนไลน์" style="width:70%;">
+                </a>
                 <a href="https://web.facebook.com/ครูผู้ช่วยcom-110744400336909">
-                    <img src="img/banner.png" class="img-fluid" alt="สอบครูผู้ช่วยออนไลน์" style="width:70%;">
+                    <img src="img/b2.png" class="img-fluid" alt="สอบครูผู้ช่วยออนไลน์" style="width:70%;">
                 </a>
             </div>
             <div class="col-sm-12 col-md-8">
