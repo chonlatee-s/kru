@@ -71,6 +71,20 @@
                             </div>
                         </div>
                     </div>
+
+                    <div class="row text-center">
+                        <div class="col-sm-12 col-md-6 col-lg-3 mb-4">
+                            <div class="card">
+                                <div class="card-body">
+                                    <a href="learnOnline.php">
+                                        <i class="material-icons" style="font-size:70px;">store</i>
+                                        <p class="menu_botton">เรียนออนไลน์</p>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>
